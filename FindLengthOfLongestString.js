@@ -6,4 +6,7 @@
   
 */
 
-const fn = (arr) => arr.reduce((acc, s) => Math.max(acc, s.length), 0)
+const fn = (arr) => arr.reduce(
+  (acc, s) => Math.max(acc, s.length), 
+  0
+)
