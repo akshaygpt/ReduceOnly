@@ -7,6 +7,6 @@
 */
 
 const fn = (arr) => arr.reduce(
-  (acc, s) => Math.max(acc, s.length), 
+  (acc, str) => Math.max(acc, str.length), 
   0
 )
