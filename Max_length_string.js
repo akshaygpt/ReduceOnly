@@ -1,6 +1,6 @@
 /*
 
-  From an array of strings, find the string with maximum length
+  From an array of strings, find the length of longest string
   
   ['a','ab'] => 2
   
